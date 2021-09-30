@@ -137,7 +137,7 @@ Here are some big trends we have seen in the last few years.
 
 ## What are the other major companies in this domain?
 
-Based on Total Value Locked (TVL) here are some noteworthy competitors:
+Based on Total Value Locked (TVL) here are some noteworthy competitors: (TVL data from [DeFi Llama](https://defillama.com/home) )
 
 <b>Binance Smart Chain (BSC)</b> - This is the second largest smart contract platform with $16B in TVL, compared to Ethereum which has $120.9B TVL.  This platform has a lot of dApps, is user friendly, and has lower fees than Ethereum.  However, BSC does not have any innovative technologies in place to help it scale better than Ethereum, so BSC will be susceptible to the same shortcomings as Ethereum as its network grows. 
 <br><br> 
