@@ -267,3 +267,5 @@ The benefits of implementing the above technologies would help tackle some of Et
 <br><br>
 
 <b>Interoperability</b> - This feature will become more and more important as Web 3.0 evolves and users need to interact with data on another chain, such as supply chain records, health records, certificates, and so on.
+
+![quote](images/quote.jpg)
