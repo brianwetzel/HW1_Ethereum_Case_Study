@@ -19,7 +19,7 @@ The team slowly became fragmented over the years and many of them went on to cre
 
 
 ## How did the idea for the project come about?
-In 2013 developers were building very basic dApps on Bitcoin, but Vitalkik believed that building on Bitcoin was fundamentally flawed.  Satoshi Nakamot, the creator of Bitcoin, had intentionally coded Bitcoin in an extremely simple programming language for security reasons.  As a result the projects that were being built on Bitcoin were less of a true solution, and more of a hack with a variety of shortcomings.  Vitalik’s idea was to create an entirely new blockchain designed from the ground up to have applications built on top of it by utilizing a “Turing-complete programming language.” [[Wired](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)]  In 2013, Vitalik wrote up a white paper for his project and named it Ethereum.  
+In 2013 developers were building very basic dApps on Bitcoin, but Vitalkik believed that building on Bitcoin was fundamentally flawed.  Satoshi Nakamot, the creator of Bitcoin, had intentionally coded Bitcoin in an extremely simple programming language for security reasons.  As a result the projects that were being built on Bitcoin were less of a true solution, and more of a hack with a variety of shortcomings.  Vitalik’s idea was to create an entirely new blockchain designed from the ground up to have applications built on top of it by utilizing a “Turing-complete programming language” [[Wired](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)].  In 2013, Vitalik wrote up a white paper for his project and named it Ethereum.  
 <Br><br>
 
 
@@ -34,7 +34,7 @@ The original round of funding was done through what is called an ICO, or an Init
 
 Bitcoin gave us 1st generation blockchains which are global decentralized digital currencies.  This is a very powerful tool, but due to its extremely limited programming nature it is difficult to build applications on.  Ethereum takes blockchain into the 2nd generation by keeping its decentralization and security, but making it much more powerful by adding smart contracts to run a variety applications, an not limited to just banking.
 
-Vitalik is often quoted saying “I discovered that they were doing this sort of swiss army knife approach of supporting 15 different features and doing it in a very limited way.”  [[Wired](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)]  
+Vitalik is often quoted saying “I discovered that they were doing this sort of swiss army knife approach of supporting 15 different features and doing it in a very limited way”  [[Wired](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)].
 <br><br>
 
 ## Who is the company's intended customer?  Is there any information about the market size of this set of customers?
@@ -179,17 +179,20 @@ Ethereum has given birth to multiple industries and brought a platform for decen
 There are many different metrics to measure a platform’s success, but in my findings there are two primary metrics that are most valuable to actual users: transaction fees and transaction speed.  This is where Ethereum’s weaknesses start to show. 
 <br><br>
 
-<b>Transaction Fees</b> - Probably the most important metric to the actual end user is fees.  According to Ycharts in Sept 2021 the average Ethereum transaction fee was $3.8/tx compared, and Binance Smart Chain at $0.27/tx.  From a separate source Avalanche’s average fee was $0.043/tx, and Solano boasts a miniscule $0.00025/tx.  Although these metrics are a constantly moving target, it is clear that Ethereum is much more expensive than its two closest competitors.  Ehtereum’s transaction fee, or “gas” fee, even spiked up to $60/tx in last year [Ycharts.com].
+<b>Transaction Fees</b> - Probably the most important metric to the actual end user is fees.  According to Ycharts in Sept 2021 the average Ethereum transaction fee was $3.8/tx compared [[Ycharts](https://ycharts.com/indicators/ethereum_average_transaction_fee)], and Binance Smart Chain at $0.27/tx [[YCharts](https://ycharts.com/indicators/binance_smart_chain_average_transaction_fee_es)].  From a Medium.com Avalanche’s average fee was $0.043/tx [[Medium.com](https://patricio-lopez-75857.medium.com/how-much-cost-use-the-avalanche-c-chian-c358292c6436)], and according to Solberg Invest Solano boasts a miniscule $0.00025/tx [[Solber Invest](https://solberginvest.com/blog/how-much-are-solana-fees/)].  Although these metrics are a constantly moving target, it is clear that Ethereum is much more expensive than its two closest competitors.  Ehtereum’s transaction fee, or “gas” fee, even spiked up to $60/tx in last year [Ycharts.com].
 <br><br>
 
 
 
 This graph the story that Ethereum is much more expensive compared to its closest competitors.
 ![fees](images/fees.png)
+[[VanEck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-competitors-and-the-race-to-innovate/)]
 <br><br>
 
 <b>Transaction Speed </b>- This can be a very misleading metric with inconsistencies across the internet which often makes it a topic for heated debate.  New projects coming onto the market commonly boast blazing fast speeds based on mathematics that have yet to hit the bottlenecks of the real world.  This metric is often measured in transaction per second or TPS and transaction time (related to block time).  An article by Forkast published in August 2021 compares some of the fastest cryptos.  Ethereum’s speed is about 13 TPS, and a transaction time of about 11 seconds.  Currently the fastest crypto based on TPS appears to be Solano with a whopping 50,000 TPS possible, however the real world transaction time is about 2.5 seconds.  Another crypto known for speed is Ripple with throughput of about 1,500 TPS, and a transaction time of about 4s.  Avalanche’s TPS is about 5,000 TPS, but achieves an extremely fast transaction time of 1-2 seconds.  Bitcoin is exceptionally slow with a TPS of about 7, and a transaction time of a whopping 10 minutes.  A blog post on Gemeni.com states that Ethereum’s transition to Ethereum 2.0 hopes to boost their speed to 10,000 TPS by switching from proof-of-work to proof-of-stake.  
+<br>
 ![speed](images/speed.png)
+[[VanEck](https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-ethereum-competitors-and-the-race-to-innovate/)]
 
 
 A very cool website called txstreet.com visually displays the transactions taking place on the blockchain in real time.  The website is a scene at a bus stop where it likens the transaction to people, and the blocks to busses leaving the station.  We can see Ethereum has more than 75,000 transactions pending and an average fee of $8.03, while Bitcoin has 3,597 transactions pending and an average fee of $0.47. (Sept 30, 2021).
@@ -212,10 +215,10 @@ Here are some other useful metrics to consider:
 <b>Number of dApps</b> - According a Coin Desk article published in Feb 2021, Ethereum has over 3,000 dApps on its platform.
 <br><br>  
 
-<b>Decentralization </b>- The higher the number of validators, the more decentralized a network is considered.  According to an article published by Hackermoon in March 2021, Ethereum has about 4,021 validator nodes, compared to Solano that has 1087 [Solanobeach.io], and Binance Smart Chain which only has 21 [Binance.org].  Ethereum here is far more decentralized than both of these, however this also makes the Ethereum slower.
+<b>Decentralization </b>- The higher the number of validators, the more decentralized a network is considered.  According to an article published by Hackermoon in March 2021, Ethereum has about 3,481 validator nodes [[Etherscan](https://etherscan.io/nodetracker#)], compared to Solano that has 1087 [[Solanobeach.io](https://solanabeach.io/)], and Binance Smart Chain which only has 21 [[Binance.org](https://docs.binance.org/smart-chain/validator/guideline.html)].  Ethereum here is far more decentralized than both of these, however this also makes the Ethereum slower.
 <br><br>
 
-<b>Active Wallet Addresses </b>- According to data gathered from Bitinfocharts.com in Sept, 2021, Ethereum had approx 723,00 active wallet addresses in a 24 hour span.  Compared to other cryptocurrency at the exact same time, Bitcoin had 751,000, Litecoin had 308,000, Bitcoin Cash had 79,000, and Dogecoin had 45,486.  It was difficult to find a comparison of this data with multiple currencies within the same relevant time period.  
+<b>Active Wallet Addresses </b>- According to data gathered from Bitinfocharts in Sept, 2021, Ethereum had approx 723,00 active wallet addresses in a 24 hour span.  Compared to other cryptocurrency at the exact same time, Bitcoin had 751,000, Litecoin had 308,000, Bitcoin Cash had 79,000, and Dogecoin had 45,486.  It was difficult to find a comparison of this data with multiple currencies within the same relevant time period.  [[BitInfoCharts.com](https://bitinfocharts.com/)]
 <br><br>
 
 ## How is your company performing relative to competitors in the same domain?
@@ -230,6 +233,7 @@ In the meantime, layer-2 solutions like Polygon (Matic) are helping to relieve t
 # Recommenations
 
 ## If you were to advise the company, what products or services would you suggest they offer?  What technologies would this additional product or service utilize?  (This could be something that a competitor offers, or use your imagination!)
+<br>
 
 Speaking at a conference in San Francisco in 2017 Vitalik said “one of her Ethereum's slogans right from the start has actually been we have no features.”  Since Ethereum doesn’t actually develop any of its own dApps, it doesn’t have a good substitute for products and services, so let’s instead look at some technologies that Ethereum could implement to address its biggest weaknesses.
 <br><br>
@@ -251,9 +255,10 @@ The technologies above are both planned to be implemented in Ethereum 2.0.  Here
 <br><br>
 
 ## Why do you think that offering this product or service would benefit the company?  Why are these technologies appropriate for your solution?
+<br>
 
 The benefits of implementing the above technologies would help tackle some of Ethereum’s biggest problems.  
-<br><br>
+<br>
 
 <b>Transaction Speed </b>- Sharding, proof-of-stake, and proof-of-history will all make the network more efficient, and thereby increasing the transaction speed.
 <br><br>
